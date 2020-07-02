@@ -1,4 +1,4 @@
-// Class for polynoms for characteristic polynomial
+// Class for polynomials for characteristic polynomial
 
 template<typename T>
 class Polynomial {
